@@ -5,9 +5,7 @@
 
 
 
-  
-
-### <div align="center">I'm Andrew Davis, a full-time Software developer with a passion for embedded design. I do a little bit of everything.</div>  
+  ### <div align="center">I'm Andrew Davis, a full-time Software developer with a passion for embedded design. I do a little bit of everything.</div>  
   
 
 - 🔭 I’m currently working on [embedded systems](https://github.com/AdavisSnakes/)  
@@ -76,17 +74,17 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adavisSnakes&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavisSnakes&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adavisSnakes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=adavissnakes&&style=flat-square)  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavisSnakes&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=adavissnakes&&style=flat-square" align="center" />
+</div>  
 
 <br />
 
